@@ -1,0 +1,10 @@
+{
+  "name": "Calivan voice",
+  "description": "Приложение для изменения голоса в реальном времени с поддержкой виртуального кабеля для Discord и других программ. Упаковано с Electron.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
